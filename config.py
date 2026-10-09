@@ -1,8 +1,8 @@
 # Ganti dengan API key dari opencellid.org/register.php
-OPENCELLID_API_KEY = "YOUR_OPENCELLID_API_KEY"
+OPENCELLID_API_KEY = "pk.ed9c7551cd50c1f90843312615776afc"
 
 # Token dari @BotFather di Telegram
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TELEGRAM_BOT_TOKEN = "8954471350:AAG85ypT5grf1jo7ZYG7cxYWA4BmziC0rtw"
 
 # Operator database Indonesia
 OPERATORS = {
